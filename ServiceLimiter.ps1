@@ -18,7 +18,7 @@ Current Version 1.0 -- Aug 4, 2014
 
 param
 (
-	[string]$MI = $null													# Full path of main installer
+	[string]$MI = $null,												# Full path of main installer
 	[string]$SN = $null													# Service name for service to limit
 )
 
